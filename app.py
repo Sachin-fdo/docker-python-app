@@ -3,7 +3,7 @@ import platform
 from datetime import datetime
 
 def main():
-    print("🚀 Dockerized Python App Running")
+    print("Dockerized Python App Running")
     print("-" * 40)
     print(f"Hostname      : {socket.gethostname()}")
     print(f"OS            : {platform.system()} {platform.release()}")
