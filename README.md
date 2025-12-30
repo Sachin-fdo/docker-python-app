@@ -27,4 +27,4 @@ The app prints system and Python environment information and runs consistently i
 - Git & GitHub documentation
 
 ## Status
-Completed ✅
+Completed
